@@ -28,11 +28,7 @@ The easiest way to deploy this Bot is via Heroku.
 
 `BOT_USERNAME`: Username Of Your Bot
 
-# Credit 🔥 
-```
-Louis 
-Sammy
-Blaze
+
 ```
 
 
